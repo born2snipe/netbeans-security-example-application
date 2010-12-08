@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: b2s/test/authentication/support/Bundle.properties
+OpenIDE-Module-Layer: b2s/test/authentication/support/layer.xml
