@@ -31,6 +31,11 @@
             <artifactId>branding</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>b2s</groupId>
+            <artifactId>authentication-gui</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency>
         <!-- To run NbModuleSuite functional tests in src/test/java, use nbjunit (assumes RELEASE70 or later):
         <dependency>
             <groupId>org.netbeans.api</groupId>
